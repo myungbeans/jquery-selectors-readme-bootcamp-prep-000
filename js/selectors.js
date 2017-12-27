@@ -1,4 +1,8 @@
 // declare your functions here...
 $("p").paragraphSelector(){
-    return $("p")
+    return 
   }
+
+$("img:last").lastImageSelector(){
+  return
+}
