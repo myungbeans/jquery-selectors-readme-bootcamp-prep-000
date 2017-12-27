@@ -1,5 +1,7 @@
 // declare your functions here...
-  $("p").paragraphSelector()
+function paragraphSelector(){
+  $("p").return()
+}
   $("img:last").lastImageSelector()
   $("#baby-ninja").ninjaBabySelector()
   $(".pics").divSelector()
