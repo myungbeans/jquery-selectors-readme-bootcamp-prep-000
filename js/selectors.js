@@ -6,8 +6,12 @@ function paragraphSelector(){
 function lastImageSelector(){
   return $("img:last")
 }
+
+function lastImageSelector(){
+  return $("img:last")
+}
   //
-  // $("img:last").lastImageSelector()
+  // .lastImageSelector()
   //
   // $("#baby-ninja").ninjaBabySelector()
   // $(".pics").divSelector()
