@@ -14,9 +14,12 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return $("#baby-ninja")
 }
-  //
-  // .lastImageSelector()
-  //
-  // $("#baby-ninja").ninjaBabySelector()
-  // $(".pics").divSelector()
+
+function divSelector(){
+  return $(".pics")
+}
+
+function firstListItem(){
+  return $("#pic-list li:first-child")
+}
   // $("#pic-list li:first-child").firstListItem()
